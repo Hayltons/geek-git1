@@ -47,6 +47,7 @@ Se possível, forneça as informações para diferentes plataformas. Exemplo: Wi
 # Meta
 
 nome do criador - [@SeuTwitter](https://.com/seuTwitter) - seuemail@gmail.com
-`LICENÇA` para mais informações.
-[https://github.com/seuusuario/seuprojeto]
-[https://github.com/seuusuario]
+
+Distribuído sob licença. Veja `LICENÇA` para mais informações.
+
+[https://github.com/seuusuario/seuprojeto][https://github.com/seuusuario]
